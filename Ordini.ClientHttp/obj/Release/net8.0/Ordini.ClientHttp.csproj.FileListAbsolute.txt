@@ -1,0 +1,15 @@
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.ClientHttp.deps.json
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.ClientHttp.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.ClientHttp.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.Shared.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.Shared.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.csproj.AssemblyReference.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.AssemblyInfoInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.AssemblyInfo.cs
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.C.B1382007.Up2Date
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\refint\Ordini.ClientHttp.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\Ordini.ClientHttp.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\obj\Release\net8.0\ref\Ordini.ClientHttp.dll

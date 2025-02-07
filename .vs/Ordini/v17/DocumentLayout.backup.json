@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\controllers\\ordinicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\controllers\\ordinicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|solutionrelative:ordini.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\model\\associaprodottoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\model\\associaprodottoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.shared\\associaprodottoordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|solutionrelative:ordini.shared\\associaprodottoordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.clienthttp\\ordiniclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|solutionrelative:ordini.clienthttp\\ordiniclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\ordini.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\ordini.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\ordinidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\ordinidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.clienthttp\\ordini.clienthttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|solutionrelative:ordini.clienthttp\\ordini.clienthttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.shared\\ordini.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|solutionrelative:ordini.shared\\ordini.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.business\\ordini.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|solutionrelative:ordini.business\\ordini.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\model\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\model\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.business\\abstraction\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034A51C5-2D70-4879-88F6-10E75AB0A76D}|Ordini.Business\\Ordini.Business.csproj|solutionrelative:ordini.business\\abstraction\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\ordini.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\ordini.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.shared\\ordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|solutionrelative:ordini.shared\\ordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.shared\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2343581E-1EC2-40C3-BC9B-976F34A67820}|Ordini.Shared\\Ordini.Shared.csproj|solutionrelative:ordini.shared\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.clienthttp\\abstraction\\iordiniclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|solutionrelative:ordini.clienthttp\\abstraction\\iordiniclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.clienthttp\\dependencyinjection\\ordiniclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|solutionrelative:ordini.clienthttp\\dependencyinjection\\ordiniclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.repository\\ordini.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA38D351-3125-4E92-9275-EB1537154B90}|Ordini.Repository\\Ordini.Repository.csproj|solutionrelative:ordini.repository\\ordini.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.clienthttp\\dependencyinjection\\ordiniclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AD960C-650F-4E61-BBE8-3F802448FD68}|Ordini.ClientHttp\\Ordini.ClientHttp.csproj|solutionrelative:ordini.clienthttp\\dependencyinjection\\ordiniclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|c:\\users\\lenovo01\\documents\\uni\\anno3\\microservizi\\ecommerce\\microservizi\\ordini\\ordini.api\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D20E336-7947-4846-9001-08DD63071781}|Ordini.Api\\Ordini.Api.csproj|solutionrelative:ordini.api\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932FC4F3-0AB4-4AC0-A62F-87DCC35801FA}|Solution Items{932FC4F3-0AB4-4AC0-A62F-87DCC35801FA}|C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{932FC4F3-0AB4-4AC0-A62F-87DCC35801FA}|Solution Items{932FC4F3-0AB4-4AC0-A62F-87DCC35801FA}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdiniClient.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\OrdiniClient.cs",
+              "RelativeDocumentMoniker": "Ordini.ClientHttp\\OrdiniClient.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\OrdiniClient.cs",
+              "RelativeToolTip": "Ordini.ClientHttp\\OrdiniClient.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:06:08.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Business.cs",
+              "RelativeDocumentMoniker": "Ordini.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Business.cs",
+              "RelativeToolTip": "Ordini.Business\\Business.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:44:40.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Repository.cs",
+              "RelativeToolTip": "Ordini.Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:30:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ordini.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Ordini.Api.csproj",
+              "RelativeDocumentMoniker": "Ordini.Api\\Ordini.Api.csproj",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Ordini.Api.csproj",
+              "RelativeToolTip": "Ordini.Api\\Ordini.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T10:04:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdiniController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Controllers\\OrdiniController.cs",
+              "RelativeDocumentMoniker": "Ordini.Api\\Controllers\\OrdiniController.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Controllers\\OrdiniController.cs",
+              "RelativeToolTip": "Ordini.Api\\Controllers\\OrdiniController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:20:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssociaProdottoOrdine.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\AssociaProdottoOrdine.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Model\\AssociaProdottoOrdine.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\AssociaProdottoOrdine.cs",
+              "RelativeToolTip": "Ordini.Repository\\Model\\AssociaProdottoOrdine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:12:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssociaProdottoOrdineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\AssociaProdottoOrdineDTO.cs",
+              "RelativeDocumentMoniker": "Ordini.Shared\\AssociaProdottoOrdineDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\AssociaProdottoOrdineDTO.cs",
+              "RelativeToolTip": "Ordini.Shared\\AssociaProdottoOrdineDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:36:25.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ordini.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Program.cs",
+              "RelativeToolTip": "Ordini.Api\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:05:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdiniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\OrdiniDbContext.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\OrdiniDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\OrdiniDbContext.cs",
+              "RelativeToolTip": "Ordini.Repository\\OrdiniDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:31:26.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ordini.ClientHttp.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\Ordini.ClientHttp.csproj",
+              "RelativeDocumentMoniker": "Ordini.ClientHttp\\Ordini.ClientHttp.csproj",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\Ordini.ClientHttp.csproj",
+              "RelativeToolTip": "Ordini.ClientHttp\\Ordini.ClientHttp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T22:51:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ordini.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\Ordini.Shared.csproj",
+              "RelativeDocumentMoniker": "Ordini.Shared\\Ordini.Shared.csproj",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\Ordini.Shared.csproj",
+              "RelativeToolTip": "Ordini.Shared\\Ordini.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T12:19:49.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ordini.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Ordini.Business.csproj",
+              "RelativeDocumentMoniker": "Ordini.Business\\Ordini.Business.csproj",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Ordini.Business.csproj",
+              "RelativeToolTip": "Ordini.Business\\Ordini.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T10:25:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ordine.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\Ordine.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Model\\Ordine.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\Ordine.cs",
+              "RelativeToolTip": "Ordini.Repository\\Model\\Ordine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:32:19.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Ordini.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\appsettings.json",
+              "RelativeToolTip": "Ordini.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T17:46:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Abstraction\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Ordini.Business\\Abstraction\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Business\\Abstraction\\IBusiness.cs",
+              "RelativeToolTip": "Ordini.Business\\Abstraction\\IBusiness.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA/wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:42:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ordini.Api.http",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Ordini.Api.http",
+              "RelativeDocumentMoniker": "Ordini.Api\\Ordini.Api.http",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Ordini.Api.http",
+              "RelativeToolTip": "Ordini.Api\\Ordini.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-01T10:05:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Ordini.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Dockerfile",
+              "RelativeToolTip": "Ordini.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-03T10:39:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Abstraction\\IRepository.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Abstraction\\IRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Abstraction\\IRepository.cs",
+              "RelativeToolTip": "Ordini.Repository\\Abstraction\\IRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:32:27.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\OrdineDTO.cs",
+              "RelativeDocumentMoniker": "Ordini.Shared\\OrdineDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\OrdineDTO.cs",
+              "RelativeToolTip": "Ordini.Shared\\OrdineDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:31:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Ordini.Shared\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Shared\\ClienteDTO.cs",
+              "RelativeToolTip": "Ordini.Shared\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:57:02.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Model\\Cliente.cs",
+              "RelativeToolTip": "Ordini.Repository\\Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:36:37.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrdiniClient.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\Abstraction\\IOrdiniClient.cs",
+              "RelativeDocumentMoniker": "Ordini.ClientHttp\\Abstraction\\IOrdiniClient.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\Abstraction\\IOrdiniClient.cs",
+              "RelativeToolTip": "Ordini.ClientHttp\\Abstraction\\IOrdiniClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:56:16.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdiniClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\DependencyInjection\\OrdiniClientExtensions.cs",
+              "RelativeDocumentMoniker": "Ordini.ClientHttp\\DependencyInjection\\OrdiniClientExtensions.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\DependencyInjection\\OrdiniClientExtensions.cs",
+              "RelativeToolTip": "Ordini.ClientHttp\\DependencyInjection\\OrdiniClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:16:28.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ordini.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ordini.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T17:47:16.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ordini.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Ordini.Repository.csproj",
+              "RelativeDocumentMoniker": "Ordini.Repository\\Ordini.Repository.csproj",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Repository\\Ordini.Repository.csproj",
+              "RelativeToolTip": "Ordini.Repository\\Ordini.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T16:00:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdiniClientOptions.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\DependencyInjection\\OrdiniClientOptions.cs",
+              "RelativeDocumentMoniker": "Ordini.ClientHttp\\DependencyInjection\\OrdiniClientOptions.cs",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.ClientHttp\\DependencyInjection\\OrdiniClientOptions.cs",
+              "RelativeToolTip": "Ordini.ClientHttp\\DependencyInjection\\OrdiniClientOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:20:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAwMgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-03T10:57:41.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-03T11:10:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile.original",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Dockerfile.original",
+              "RelativeDocumentMoniker": "Ordini.Api\\Dockerfile.original",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\Ordini.Api\\Dockerfile.original",
+              "RelativeToolTip": "Ordini.Api\\Dockerfile.original",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-03T11:10:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\lenovo01\\Documents\\Uni\\Anno3\\MicroServizi\\Ecommerce\\microservizi\\Ordini\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-01T11:14:55.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

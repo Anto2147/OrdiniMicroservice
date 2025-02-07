@@ -1,0 +1,17 @@
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Repository.deps.json
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Repository.runtimeconfig.json
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Repository.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Repository.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Shared.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\bin\Debug\net8.0\Ordini.Shared.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.csproj.AssemblyReference.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.AssemblyInfo.cs
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.R.698077DB.Up2Date
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\refint\Ordini.Repository.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\Ordini.Repository.genruntimeconfig.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Repository\obj\Debug\net8.0\ref\Ordini.Repository.dll

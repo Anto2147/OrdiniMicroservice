@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ordini.ClientHttp</id>
+    <version>1.0.9</version>
+    <authors>Ordini.ClientHttp</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Ordini.Shared" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="9.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="9.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\bin\Release\net8.0\Ordini.ClientHttp.dll" target="lib\net8.0\Ordini.ClientHttp.dll" />
+    <file src="C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.ClientHttp\README.md" target="\README.md" />
+  </files>
+</package>

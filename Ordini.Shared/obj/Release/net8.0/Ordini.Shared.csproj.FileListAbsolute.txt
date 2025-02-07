@@ -1,0 +1,11 @@
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\bin\Release\net8.0\Ordini.Shared.deps.json
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\bin\Release\net8.0\Ordini.Shared.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\bin\Release\net8.0\Ordini.Shared.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.AssemblyInfoInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.AssemblyInfo.cs
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\refint\Ordini.Shared.dll
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\Ordini.Shared.pdb
+C:\Users\lenovo01\Documents\Uni\Anno3\MicroServizi\Ecommerce\microservizi\Ordini\Ordini.Shared\obj\Release\net8.0\ref\Ordini.Shared.dll

@@ -1,0 +1,4 @@
+ReadMe
+
+1.Una Cliente puo avere piu Ordini. Un Ordine puo avere piu AssociaProdottoOrdine. Piu AssociaProdottoOrdine possono essere associati allo stesso Ordine
+
