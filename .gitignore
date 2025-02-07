@@ -1,0 +1,36 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Rr]elease/
+[Rr]eleasePublic/
+[Rr]etail/
+x64/
+x86/
+x64/
+AnyCPU/
+
+# User-specific files
+.vscode/
+.idea/
+.user
+.userosscache
+.suo
+.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+NuGet.Config
+secrets.json
